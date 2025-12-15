@@ -1,0 +1,33 @@
+nohit_text;Leider ist deine Pflanze nicht in der Datenbank. Wenn du aber alle Informationen hast, kannst du die Karte trotzdem ausfüllen.;;
+plantname_long;Pflanzenname ist lang. Du kannst im Kosenamefeld eine Kurzform eintragen.;;
+nickname_long;Kosename ist lang. Prüfe ob er gut ins Feld passt! Benutze wenn nötig eine Kurzform.;;
+btn_all_stickers;Alle Sticker anzeigen;;
+btn_matching_stickers;Nur passende Sticker;;
+;;;
+;;;
+btn_all_stickers;Alle;Sticker;anzeigen
+btn_matching_stickers;Nur;passende;Sticker
+section_sticker_title;Sticker;;
+section_field6_title;Spruch;;
+section_field7_title;Symbol;;
+;;;
+btn_all_stickers;Alle Sticker anzeigen;;
+btn_matching_stickers;Nur passende Sticker;;
+btn_clear_card;Karte leeren;;
+;;;
+h_links;Pflegehinweise für –;;
+h_rechts;Hier bearbeitest du deine Pflanzenpflegekarte;;
+btn_uebernehmen_kosename;Kosename übernehmen;;
+btn_uebernehmen_name;Pflanzennamen übernehmen;;
+btn_zoom_100;Zoom 100%;;
+btn_zoom_150;Zoom 150%;;
+btn_toggle_frontback;Vorder-/Rückseite umschalten;;
+spruch_apply;Übernehmen;;
+spruch_cancel;Abbrechen;;
+btn_karte_fertig_ok;Karte fertig? OK;;
+confirm_cancel;Abbrechen;;
+confirm_ok;OK;;
+feld7_trigger;Auswahl;;
+feld7_label;Auswahl;;
+rb_dd_foot;Freitext tippen & dann ins Feld ziehen.;;
+feld7_dd;Auswahl Smiley Pfeil Logo;;
